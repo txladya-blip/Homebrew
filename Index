@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>Your Content</name>
+		<update version="1.0.0">
+			<file name="Txladya-blip.index" url="https://raw.githubusercontent.com/Txladya-blip/Homebrew/master/Txladya-blip.index" />
+		</update>
+	</info>
+	<files>
+		<file name="Add Aeldari Bugfolk - Moth subrace with Common and Aeldari languages.xml" url="https://raw.githubusercontent.com/Txladya-blip/Homebrew/master/Txladya-blip/Add Aeldari Bugfolk - Moth subrace with Common and Aeldari languages.xml" />
+	</files>
+</index>
