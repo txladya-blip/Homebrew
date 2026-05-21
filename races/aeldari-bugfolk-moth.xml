@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+  <race>
+    <name custom="YES">Aeldari Bugfolk - Moth</name>
+    <description>The Moths are a subrace of Aeldari Bugfolk, standing around 6 to 7 feet tall. With their natural magical affinity and superior darkvision, they rely on the strength of their Beetle kin for protection. Moths are skilled smiths with an innate connection to sacred magic and the ability to take flight.</description>
+    <ability>
+      <name>Ability Score Increase</name>
+      <text>Your Wisdom score increases by 2, and your Constitution score increases by 1.</text>
+    </ability>
+    <size>Medium</size>
+    <height>6 to 7</height>
+    <speed>
+      <walk>30</walk>
+      <fly>30</fly>
+    </speed>
+    <trait>
+      <name>Moth Magic</name>
+      <text>You know the sacred flame cantrip. When you reach 3rd level, you can cast the detect good and evil spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for these spells.</text>
+    </trait>
+    <trait>
+      <name>Superior Darkvision</name>
+      <text>Your darkvision has a range of 120 feet.</text>
+    </trait>
+    <trait>
+      <name>Sunlight Sensitivity</name>
+      <text>You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.</text>
+    </trait>
+    <trait>
+      <name>Three Toed Feet</name>
+      <text>You are not affected by difficult terrain created by the earth.</text>
+    </trait>
+    <trait>
+      <name>Smith's Lore</name>
+      <text>You have proficiency with smith's tools, and whenever you make an Intelligence (History) check related to the origin of a piece of armor or weaponry, you are considered proficient in the History skill and add double your proficiency bonus.</text>
+    </trait>
+    <language>
+      <name>Common</name>
+    </language>
+    <language>
+      <name>Aeldari</name>
+    </language>
+    <source>Homebrew</source>
+  </race>
+</document>
