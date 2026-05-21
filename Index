@@ -7,6 +7,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="Add Aeldari Bugfolk - Moth subrace with Common and Aeldari languages.xml" url="https://raw.githubusercontent.com/Txladya-blip/Homebrew/master/Txladya-blip/Add Aeldari Bugfolk - Moth subrace with Common and Aeldari languages.xml" />
+		<file name="aeldari-bugfolk-moth.xml" url="https://raw.githubusercontent.com/Txladya-blip/Homebrew/master/Txladya-blip/aeldari-bugfolk-moth.xml" />
 	</files>
 </index>
